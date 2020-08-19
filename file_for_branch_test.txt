@@ -1,0 +1,2 @@
+file created for feature my_new_feature
+it contains random text.
